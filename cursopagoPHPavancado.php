@@ -1,3 +1,3 @@
 <?php
-echo "hello teu cu";
+echo "hello nada";
 ?>
